@@ -1,0 +1,26 @@
+{
+  "name": "marshal.practical-2.t3.on-campus",
+  "version": "1.0.0",
+  "description": "SIT725 Practicals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/222093271/Marshal.Practical-2.T3.on-Campus.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Marshal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/222093271/Marshal.Practical-2.T3.on-Campus/issues"
+  },
+  "homepage": "https://github.com/222093271/Marshal.Practical-2.T3.on-Campus#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
